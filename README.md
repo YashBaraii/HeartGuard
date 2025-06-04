@@ -1,4 +1,4 @@
-# Heart Failure Prediction System
+# 💗 HeartGuard - Heart Failure Prediction System
 
 Predicting the presence of heart disease using clinical data with a machine learning model.
 
