@@ -97,7 +97,7 @@ origins = [
     "http://127.0.0.1:3000",
     "http://127.0.0.1:5173",
     "http://localhost:5173",
-    "https://heartdiseasepredictionyb.netlify.app/",
+    "https://heartdiseasepredictionyb.netlify.app",
 ]
 
 app.add_middleware(
